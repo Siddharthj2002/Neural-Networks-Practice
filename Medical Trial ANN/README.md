@@ -1,6 +1,6 @@
 # Medical Trial Analysis Notebook
 
-This Jupyter notebook provides an analysis of data from a hypothetical medical trial testing a new drug on patients of different ages.
+This Python notebook provides an analysis of data from a hypothetical medical trial testing a new drug on patients of different ages.
 
 ## Contents
 
