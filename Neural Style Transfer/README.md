@@ -1,5 +1,3 @@
-Here is a suggested README.md for this neural style transfer project:
-
 # Neural Style Transfer
 
 ## Overview
