@@ -47,7 +47,3 @@ Styled image:
 
 - [TensorFlow Hub Model](https://tfhub.dev/google/magenta/arbitrary-image-stylization-v1-256/2)
 - [Neural Style Transfer Paper](https://arxiv.org/abs/1508.06576)
-
-## Project Name Suggestion
-
-Artistic Style Transfer
